@@ -1,6 +1,7 @@
 
-# Electroneum
+# Forocoin
 
+Copyright (c) 2018-2019, The Forocoin Project
 Copyright (c) 2017-2018, The Electroneum Project
 Copyright (c) 2014-2017, The Monero Project  
 Portions Copyright (c) 2012-2013, The Cryptonote developers  
@@ -12,7 +13,7 @@ Portions Copyright (c) 2012-2013, The Cryptonote developers
 
 ## Introduction
 
-Electroneum is a private, secure, untraceable, mobile based cryptocurrency. You are your bank, you control your funds, and nobody can trace your transfers unless you allow them to do so.
+It's a fork from Electroneum is a private, secure, untraceable, mobile based cryptocurrency. You are your bank, you control your funds, and nobody can trace your transfers unless you allow them to do so.
 
 **Privacy:** Electroneum uses a cryptographically sound system to allow you to send and receive funds without your transactions being easily revealed on the blockchain (the ledger of transactions that everyone has). This ensures that your purchases, receipts, and all transfers remain absolutely private by default.
 
